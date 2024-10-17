@@ -2,6 +2,12 @@
 
 All notable changes to PagerTabStrip will be documented in this file.
 
+### [4.1.0](https://github.com/xmartlabs/PagerTabStrip/releases/tag/4.1.0)
+
+<!-- Released on 2024-10-17. -->
+
+- Fix PagerTabStripView to make it work in iOS 18
+
 ### [4.0.0](https://github.com/xmartlabs/PagerTabStrip/releases/tag/4.0.0)
 
 <!-- Released on 2023-02-02. -->
